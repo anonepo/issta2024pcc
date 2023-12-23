@@ -1,0 +1,98 @@
+accelerate==0.20.3
+aiohttp==3.8.5
+aiosignal==1.3.1
+async-timeout==4.0.3
+attrs==23.1.0
+backoff==2.2.1
+bitsandbytes==0.41.1
+boltons @ file:///home/conda/feedstock_root/build_artifacts/boltons_1677499911949/work
+Brotli @ file:///home/conda/feedstock_root/build_artifacts/brotli-split_1687884021435/work
+certifi==2023.7.22
+cffi @ file:///home/conda/feedstock_root/build_artifacts/cffi_1671179360775/work
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1688813409104/work
+click==8.1.7
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1666700638685/work
+conda==23.3.1
+conda-package-handling @ file:///home/conda/feedstock_root/build_artifacts/conda-package-handling_1691048088238/work
+conda_package_streaming @ file:///home/conda/feedstock_root/build_artifacts/conda-package-streaming_1691009212940/work
+cryptography @ file:///home/conda/feedstock_root/build_artifacts/cryptography-split_1691444168825/work
+datasets==2.14.4
+Deprecated==1.2.14
+dill==0.3.7
+einops==0.6.1
+filelock==3.12.3
+frozenlist==1.4.0
+fsspec==2023.6.0
+gmpy2 @ file:///home/conda/feedstock_root/build_artifacts/gmpy2_1666808679441/work
+googleapis-common-protos==1.60.0
+grpc-interceptor==0.15.3
+grpcio==1.57.0
+grpcio-reflection==1.57.0
+grpcio-status==1.57.0
+grpcio-tools==1.51.1
+hf_transfer==0.1.3
+huggingface-hub==0.16.4
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1663625384323/work
+Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1654302431367/work
+jsonpatch @ file:///home/conda/feedstock_root/build_artifacts/jsonpatch_1632759296524/work
+jsonpointer==2.0
+libmambapy @ file:///home/conda/feedstock_root/build_artifacts/mamba-split_1680002410624/work/libmambapy
+loguru==0.6.0
+mamba @ file:///home/conda/feedstock_root/build_artifacts/mamba-split_1680002410624/work/mamba
+MarkupSafe @ file:///home/conda/feedstock_root/build_artifacts/markupsafe_1685769048265/work
+mpmath @ file:///home/conda/feedstock_root/build_artifacts/mpmath_1678228039184/work
+multidict==6.0.4
+multiprocess==0.70.15
+mypy-protobuf==3.4.0
+networkx @ file:///home/conda/feedstock_root/build_artifacts/networkx_1680692919326/work
+numpy==1.25.2
+opentelemetry-api==1.15.0
+opentelemetry-exporter-otlp==1.15.0
+opentelemetry-exporter-otlp-proto-grpc==1.15.0
+opentelemetry-exporter-otlp-proto-http==1.15.0
+opentelemetry-instrumentation==0.36b0
+opentelemetry-instrumentation-grpc==0.36b0
+opentelemetry-proto==1.15.0
+opentelemetry-sdk==1.15.0
+opentelemetry-semantic-conventions==0.36b0
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1681337016113/work
+pandas==2.0.3
+peft==0.4.0
+Pillow==10.0.0
+pluggy @ file:///home/conda/feedstock_root/build_artifacts/pluggy_1687776318736/work
+protobuf==4.24.2
+psutil==5.9.5
+pyarrow==13.0.0
+pycosat @ file:///home/conda/feedstock_root/build_artifacts/pycosat_1666836642684/work
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1636257122734/work
+pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1685514481738/work
+PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1661604839144/work
+python-dateutil==2.8.2
+pytz==2023.3
+PyYAML==6.0.1
+regex==2023.8.8
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1684774241324/work
+ruamel.yaml @ file:///home/conda/feedstock_root/build_artifacts/ruamel.yaml_1686993888032/work
+ruamel.yaml.clib @ file:///home/conda/feedstock_root/build_artifacts/ruamel.yaml.clib_1670412733608/work
+safetensors==0.3.3
+scipy==1.11.2
+sentencepiece==0.1.99
+six==1.16.0
+sympy @ file:///home/conda/feedstock_root/build_artifacts/sympy_1684180540116/work
+text-generation-server @ file:///usr/src/server
+texttable==1.6.7
+tokenizers==0.13.3
+toolz @ file:///home/conda/feedstock_root/build_artifacts/toolz_1657485559105/work
+torch==2.0.1
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1691671248568/work
+transformers==4.32.1
+triton==2.0.0
+typer==0.6.1
+types-protobuf==4.24.0.1
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1688315532570/work
+tzdata==2023.3
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1689789803562/work
+wrapt==1.15.0
+xxhash==3.3.0
+yarl==1.9.2
+zstandard==0.19.0
